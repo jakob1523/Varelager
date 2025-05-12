@@ -21,7 +21,7 @@ passord = input("Skriv passord: ")
 #Passord normal bruker = 321
 
 DB_CONFIG = {
-    'host': 'localhost',
+    'host': '10.2.2.9',
     'user': brukernavn,
     'password': passord,
     'database': 'varelager'
